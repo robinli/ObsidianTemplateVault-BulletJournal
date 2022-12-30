@@ -70,4 +70,8 @@ git clone https://github.com/robinli/ObsidianTemplateVault-BulletJournal.git
 - 左側功能列 -> ==開啟今天的每日筆記==
 - 從月曆點擊日期
 
+填寫當天的工作
+
+遺留到明天要執行的新增至 ==未完成事項==
+
 ---

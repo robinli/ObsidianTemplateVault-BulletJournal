@@ -31,6 +31,9 @@ git clone https://github.com/robinli/ObsidianTemplateVault-BulletJournal.git
 ---
 
 # 簡易版子彈筆記法
+## 工作流程
+![](https://github.com/robinli/ObsidianTemplateVault-BulletJournal/blob/main/RobinBulletJournal-V1/90%F0%9F%92%8E%E7%B3%BB%E7%B5%B1%E5%8C%A3/99%20Attachment/Pasted%20image%2020221230114023.png?raw=true)
+
 ## 檔案架構與關聯
 - Monthly Review 月計畫
 	- 上月未完成 : 手動輸入

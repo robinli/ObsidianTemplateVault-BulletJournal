@@ -40,7 +40,7 @@ git clone https://github.com/robinli/ObsidianTemplateVault-BulletJournal.git
 ---
 
 ## 工作流程
-![[Pasted image 20221230114023.png]]
+![[Pasted image 20221230114023 簡易版子彈筆記法流程圖.png]]
 
 ---
 

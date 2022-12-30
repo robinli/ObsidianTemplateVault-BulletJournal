@@ -32,7 +32,7 @@ git clone https://github.com/robinli/ObsidianTemplateVault-BulletJournal.git
 
 # 簡易版子彈筆記法
 ## 工作流程
-![](https://github.com/robinli/ObsidianTemplateVault-BulletJournal/blob/main/RobinBulletJournal-V1/90%F0%9F%92%8E%E7%B3%BB%E7%B5%B1%E5%8C%A3/99%20Attachment/Pasted%20image%2020221230114023.png?raw=true)
+![](https://github.com/robinli/ObsidianTemplateVault-BulletJournal/blob/main/RobinBulletJournal-V1/90%F0%9F%92%8E%E7%B3%BB%E7%B5%B1%E5%8C%A3/99%20Attachment/Pasted%20image%2020221230114023%20%E7%B0%A1%E6%98%93%E7%89%88%E5%AD%90%E5%BD%88%E7%AD%86%E8%A8%98%E6%B3%95%E6%B5%81%E7%A8%8B%E5%9C%96.png?raw=true)
 
 ## 檔案架構與關聯
 - Monthly Review 月計畫

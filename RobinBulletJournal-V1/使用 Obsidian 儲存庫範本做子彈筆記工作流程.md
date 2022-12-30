@@ -12,25 +12,38 @@ git clone https://github.com/robinli/ObsidianTemplateVault-BulletJournal.git
 
 直接[下載](https://github.com/robinli/ObsidianTemplateVault-BulletJournal/archive/refs/heads/main.zip)
 
+---
+
 ## 開啟 Obsidian
 
 ## 開啟儲存庫
 左側功能列下方 ==開啟其他儲存庫== 
 
+---
+
 ![[Pasted image 20221230104630.png]]
 
-選擇儲存庫的目錄
-從檔案總管開啟目錄，看見 .obsidian 目錄，按下選取
+---
+
+檔案總管展開目錄 (看見 .obsidian 的上一層目錄)，按下選取
 
 ![[Pasted image 20221230104746.png]]
+
+---
 
 ![[Pasted image 20221230104733.png]]
 
 ---
 
 # 簡易版子彈筆記法
+
+---
+
 ## 工作流程
 ![[Pasted image 20221230114023.png]]
+
+---
+
 ## 檔案架構與關聯
 - Monthly Review 月計畫
 	- 上月未完成 : 手動輸入
@@ -46,6 +59,8 @@ git clone https://github.com/robinli/ObsidianTemplateVault-BulletJournal.git
 	- Daily Log 日誌 : 手動輸入
 	- 未完成事項(YY-MM) : 手動輸入，今天未完成的工作要順延到明天
 
+---
+
 ## 建立月計畫
 在目錄 10✅子彈日誌\13 Monthly 下新增筆記，
 命名格式為 : 西元年-M月份
@@ -55,15 +70,21 @@ git clone https://github.com/robinli/ObsidianTemplateVault-BulletJournal.git
 
 **![[Pasted image 20221230104525.png]]**
 
+---
 
 ## 建立週計畫
 
 ![[Pasted image 20221230102842.png]]
 
+---
 
 ## 填寫日誌
 新增日誌
 - 左側功能列 -> ==開啟今天的每日筆記==
 - 從月曆點擊日期
+
+填寫當天的工作
+
+遺留到明天要執行的新增至  ==未完成事項==
 
 ---

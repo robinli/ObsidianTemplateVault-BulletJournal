@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1f2a0bbf738fb20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "30🚀生活與學習/31生活開銷/生活開銷記錄.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b201dc9829fad48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00📥收件匣/便條紙.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "使用 Obsidian 儲存庫範本做子彈筆記工作流程.md",
+                "file": "00📥收件匣/便條紙.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "使用 Obsidian 儲存庫範本做子彈筆記工作流程.md",
+                "file": "00📥收件匣/便條紙.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "使用 Obsidian 儲存庫範本做子彈筆記工作流程.md"
+                "file": "00📥收件匣/便條紙.md"
               }
             }
           },
@@ -155,17 +180,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0f9261e47a0410f3",
+  "active": "0b201dc9829fad48",
   "lastOpenFiles": [
+    "30🚀生活與學習/31生活開銷/生活開銷記錄.md",
+    "使用 Obsidian 儲存庫範本做子彈筆記工作流程.md",
     "10✅子彈日誌/11 Daily/2022-12-30.md",
     "20🎯專案/2022 個人筆記系統/我的子彈筆記作法.md",
-    "使用 Obsidian 儲存庫範本做子彈筆記工作流程.md",
     "10✅子彈日誌/11 Daily/2022-12-31.md",
     "10✅子彈日誌/11 Daily/2022-12-29.md",
     "10✅子彈日誌/11 Daily/2022-12-28.md",
     "10✅子彈日誌/11 Daily/2022-12-27.md",
     "10✅子彈日誌/11 Daily/2023-01-01.md",
-    "10✅子彈日誌/12 Weekly/2022-W53.md",
-    "10✅子彈日誌/12 Weekly/2023-W01.md"
+    "10✅子彈日誌/12 Weekly/2022-W53.md"
   ]
 }

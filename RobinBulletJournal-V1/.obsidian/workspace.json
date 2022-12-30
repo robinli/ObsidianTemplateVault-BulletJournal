@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "f5fe480e42885ed0",
+    "type": "split",
+    "children": [
+      {
+        "id": "18b8a7b84b5125ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f9261e47a0410f3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "265053f1c6bf78df",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5f36abcd372126e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b33238acbb20225",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b25e35e0b652c60",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "593199e7dac5f3a4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 390.5
+  },
+  "right": {
+    "id": "45410506de283642",
+    "type": "split",
+    "children": [
+      {
+        "id": "101ea8330554b4b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d226d04b7f2b366a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39137d5963747f32",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a33a6b19d3cc4585",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cf1980ff8c2a5a04",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "7d986a7371652e2b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 378.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "0f9261e47a0410f3",
+  "lastOpenFiles": [
+    "使用 Obsidian 儲存庫範本做子彈筆記工作流程.md",
+    "90💎系統匣/Dashboard.md",
+    "90💎系統匣/90 Query/10 今天編輯的筆記.md",
+    "10✅子彈日誌/11 Daily/2022-12-30.md",
+    "20🎯專案/2022 個人筆記系統/我的子彈筆記作法.md",
+    "40🌱知識卡片盒🌲/41 PKM/42.01 Obsidian/Obsidian 常用的 Markdown 語法.md",
+    "20🎯專案/2022 個人筆記系統/個人筆記系統計畫.md",
+    "90💎系統匣/90 Query/12 每月建立的筆記.md",
+    "90💎系統匣/90 Query/11 今天建立的筆記.md",
+    "20🎯專案/2022 訂餐系統/Issue/2022-12-28 收費銷帳條碼機無法讀取.md"
+  ]
+}

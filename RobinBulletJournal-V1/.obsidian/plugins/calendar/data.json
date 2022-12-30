@@ -1,0 +1,10 @@
+{
+  "shouldConfirmBeforeCreate": true,
+  "weekStart": "locale",
+  "wordsPerDot": 250,
+  "showWeeklyNote": true,
+  "weeklyNoteFormat": "",
+  "weeklyNoteTemplate": "90💎系統匣/Journal/Weekly Review Template",
+  "weeklyNoteFolder": "10✅子彈日誌/12 Weekly",
+  "localeOverride": "system-default"
+}

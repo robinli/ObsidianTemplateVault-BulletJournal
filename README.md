@@ -23,7 +23,7 @@ git clone https://github.com/robinli/ObsidianTemplateVault-BulletJournal.git
 
 
 選擇儲存庫的目錄
-檔案總管展開目錄 (看見 .obsidian 的上一層目錄)，按下選取
+檔案總管開啟目錄，按下選取
 ![](https://github.com/robinli/ObsidianTemplateVault-BulletJournal/blob/main/RobinBulletJournal-V1/90%F0%9F%92%8E%E7%B3%BB%E7%B5%B1%E5%8C%A3/99%20Attachment/Pasted%20image%2020221230104746.png?raw=true)
 
 ![](https://github.com/robinli/ObsidianTemplateVault-BulletJournal/blob/main/RobinBulletJournal-V1/90%F0%9F%92%8E%E7%B3%BB%E7%B5%B1%E5%8C%A3/99%20Attachment/Pasted%20image%2020221230104733.png?raw=true)

@@ -1,3 +1,11 @@
 {
-  "editor:rename-heading": []
+  "editor:rename-heading": [],
+  "file-explorer:reveal-active-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "N"
+    }
+  ]
 }

@@ -5,17 +5,23 @@
 ```
 這是 *斜體*
 這是 **粗體**
-==highlight==
+這是 ==highlight==
+這是 ~~刪除線~~
 ```
 
 這是 *斜體*
 這是 **粗體**
 這是 ==highlight==
+這是 ~~刪除線~~
+
+
 
 ---
 # Checkbox
-- [ ] 項目 A
-- [X] 項目 B
+- [x] 項目 A
+```
+- [x] 項目 A
+```
 
 ---
 # 引用素材
@@ -23,17 +29,24 @@
 字首加 ! 
 字尾加 |300 表示寬度 300px
 ```
-![[Pasted image 20221221142258.png]]
-![[Pasted image 20221221142258.png|300]]
+![[Pasted image 20221223154427.png]]
+![[Pasted image 20221223154427.png|300]]
 ```
 
 呈現
 
-![[Pasted image 20221221142258.png]]
+![[Pasted image 20221223154427.png]]
 
-![[Pasted image 20221221142258.png|300]]
+![[Pasted image 20221223154427.png|300]]
+
+
 ---
 # [iframe 範例](https://help.obsidian.md/How+to/Embed+files#iframe)
+
+內塹 YouTube
+<iframe width="640" height="360" src="https://www.youtube.com/embed/wB89lJs5A3s" title="👑️ My 2021 Comprehensive Obsidian Zettelkasten Workflow 👑️ [Copious Timestamps] 🏷️" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 內塹 Twitter 訊息
 
 ```

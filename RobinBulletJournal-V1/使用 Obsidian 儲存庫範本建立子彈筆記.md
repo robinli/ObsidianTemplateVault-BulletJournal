@@ -37,7 +37,7 @@ git clone https://github.com/robinli/ObsidianTemplateVault-BulletJournal.git
 
 ## 子彈筆記流程
 
-從時間的範圍由大至小為 未來誌 (Futrue Log) -> 月計畫 -> 週計畫 -> 日誌。
+從時間的範圍由大至小為 未來誌 (Future Log) -> 月計畫 -> 週計畫 -> 日誌。
 這四類筆記有不同的格式，透過 Obsidian 範本的功能，可以自動帶入範本內容。
 
 ![upgit_20230110_1673343117.png](https://raw.githubusercontent.com/robinli/RobinObsidianAssets/main/2023/01/upgit_20230110_1673343117.png)
@@ -67,6 +67,10 @@ git clone https://github.com/robinli/ObsidianTemplateVault-BulletJournal.git
 
 
 - 從月曆點擊日期
+
+早上進行規劃時，可以檢視下方 Reminder 提供的資訊，將預計進行的任務移轉到今天執行。
+
+![upgit_20230111_1673408541.png](https://raw.githubusercontent.com/robinli/RobinObsidianAssets/main/2023/01/upgit_20230111_1673408541.png)
 
 
 ## Key 撰寫體例

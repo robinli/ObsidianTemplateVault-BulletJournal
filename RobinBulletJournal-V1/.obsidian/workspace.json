@@ -4,40 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "af7b5251c0307f95",
+        "id": "c33d7da32c5a7ae0",
         "type": "tabs",
         "children": [
           {
-            "id": "b4f34e7800e7c61f",
+            "id": "defc6d5c17b33c63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "使用 Obsidian 儲存庫範本建立子彈筆記.md",
+                "file": "10✅子彈日誌/14 Yearly/2023-FutureLog.md",
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "3bb4a9ea67138598"
-          }
-        ]
-      },
-      {
-        "id": "03fe68c4dc770a66",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "055c710ee69f8df5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "使用 Obsidian 儲存庫範本建立子彈筆記.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "3bb4a9ea67138598"
+            }
           }
         ]
       }
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "使用 Obsidian 儲存庫範本建立子彈筆記.md",
+                "file": "10✅子彈日誌/14 Yearly/2023-FutureLog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "使用 Obsidian 儲存庫範本建立子彈筆記.md",
+                "file": "10✅子彈日誌/14 Yearly/2023-FutureLog.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "使用 Obsidian 儲存庫範本建立子彈筆記.md"
+                "file": "10✅子彈日誌/14 Yearly/2023-FutureLog.md"
               }
             }
           },
@@ -176,17 +156,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "055c710ee69f8df5",
+  "active": "defc6d5c17b33c63",
   "lastOpenFiles": [
-    "10✅子彈日誌/13 Monthly/2023-M01.md",
+    "10✅子彈日誌/11 Daily/2023-01-11.md",
     "使用 Obsidian 儲存庫範本建立子彈筆記.md",
+    "10✅子彈日誌/子彈日誌說明書.md",
+    "10✅子彈日誌/13 Monthly/2023-M01.md",
     "10✅子彈日誌/13 Monthly/2023-M02.md",
     "90💎系統匣/98 Templates/Journal/Journal Monthly.md",
     "40🌱知識卡片盒🌲/41 PKM/41.01 筆記方法/PARA 筆記整理.md",
     "10✅子彈日誌/11 Daily/2023-01-10.md",
     "90💎系統匣/90 Query/12 每月建立的筆記.md",
-    "90💎系統匣/90 Query/11 今天建立的筆記.md",
-    "90💎系統匣/90 Query/10 今天編輯的筆記.md",
-    "10✅子彈日誌/子彈日誌說明書.md"
+    "90💎系統匣/90 Query/11 今天建立的筆記.md"
   ]
 }
